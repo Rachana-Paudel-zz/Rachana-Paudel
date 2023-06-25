@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rachana-Paudel
 - 👀 I’m interested in Coding and Learning
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Cloud Practitioner
 -🕸 I’m looking to collaborate on new ideas and research
 
 <!---
